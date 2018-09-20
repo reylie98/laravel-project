@@ -40,7 +40,7 @@
                 <div class="collapse navbar-collapse" id="app-navbar-collapse">
                     <!-- Left Side Of Navbar -->
                     <ul class="nav navbar-nav navbar-left">
-                      <li><a href="/">Home</a></li>
+                      <li><a href="/home">Home</a></li>
                       <li class="dropdown">
                         <a class="dropdown-toggle" data-toggle="dropdown">Announcement
                         <span class="caret"></span></a>
