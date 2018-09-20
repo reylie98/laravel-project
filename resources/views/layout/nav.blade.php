@@ -51,7 +51,7 @@
                       </li>
                         <li><a href="/about">About</a></li>
                         <li><a href="/services">Category</a></li>
-                        
+                    </ul>    
 
                     <!-- Right Side Of Navbar -->
                     <ul class="nav navbar-nav navbar-right">
