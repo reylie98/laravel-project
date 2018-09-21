@@ -15,7 +15,7 @@ Route::get('/', 'PagesController@Heri');
 Route::get('/about','PagesController@about');
 Route::get('/services','PagesController@services');
 
-Route::resource('posts','PostController');
+Route::resource('/posts','PostController');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index');
